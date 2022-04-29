@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:atom="http://www.w3.org/2005/Atom"
+   xmlns:media="http://search.yahoo.com/mrss/">
+    <!--
+app_version=1.15.0
+benchmark=89ms
+etag=6a5e19368f43047327195691d352b19e
+timestamp=1616684577
+timestamp_iso=2021-03-25T15:02:57.654190Z
+-->
+    <channel>
+        <title>Zype Test</title>
+        <link>https://www.zype.com/</link>
+        <description>Zype Test</description>
+        <image>
+            <title>Zype Test</title>
+            <width>144</width>
+            <height>43</height>
+            <link>https://www.zype.com/</link>
+            <url>https://theme.zdassets.com/theme_assets/848525/85764c3a60f36a5ab79fbd3a29ecdbda62175b51.png</url>
+        </image>
+        <language>en-us</language>
+        <pubDate>Fri, 29 Apr 2022 17:11:25 -0300</pubDate>
+        <lastBuildDate>Fri, 29 Apr 2022 17:11:25 -0300</lastBuildDate>
+        <copyright>Zype.</copyright>
+        <item>
+            <title>TEST DASH-737</title>
+            <link>https://storage.googleapis.com/zype-original-video-stg/uploads/62698e86c900ed0001622e2b/28e80247-76b7-4e50-87cc-29fbbdde1c08.mp4?GoogleAccessId=zype-gcs-stg%40zype-working.iam.gserviceaccount.com&Expires=1651350153&Signature=q55pk09Z4zuFTqi4CvLsMpSHlHKIBK5w2jYscovfW7PfnS5cSH4w9DzUvFjHKUXUSv3A%2BfnQisW9iNk%2BwyusuPVW9T1AJADENR6wBuMoXQihO8Vs0J00vEN%2FvLKXCbd5ApHQCbCiYYG20Jopglb%2BcfBu594AK1UoDThWpMfU2gxskiz6zl9DtsD1U3yO%2F8JtFRzTY9lfWwI7pwJ%2F3cgnuEAVDiCX9sWh%2FSJFLIIMKl4fiS%2FMGKBmjOtchnwo%2F4PIqyQ8FsOaiklqsHZ2g9wS0cKhRSRozfd8OobS5vqS3sDWSZejWrb19cRaqME91M9vp4s%2FIyOpOPALXeYeKjCGyw%3D%3D</link>
+            <guid isPermaLink="false"> 28e80247-76b7-4e50-87cc-29fbbdde1c08</guid>
+            <description>
+              Zype Testing DASH-737
+        </description>
+            <dc:creator>Joe</dc:creator>
+            <pubDate>Fri, 29 Apr 2022 17:11:25 -0300</pubDate>
+            <atom:updated>2022-04-29T17:11:25-03:00</atom:updated>
+            <media:thumbnail url="https://theme.zdassets.com/theme_assets/848525/85764c3a60f36a5ab79fbd3a29ecdbda62175b51.png"/>
+            <media:content url="https://storage.googleapis.com/zype-original-video-stg/uploads/62698e86c900ed0001622e2b/28e80247-76b7-4e50-87cc-29fbbdde1c08.mp4?GoogleAccessId=zype-gcs-stg%40zype-working.iam.gserviceaccount.com&Expires=1651350153&Signature=q55pk09Z4zuFTqi4CvLsMpSHlHKIBK5w2jYscovfW7PfnS5cSH4w9DzUvFjHKUXUSv3A%2BfnQisW9iNk%2BwyusuPVW9T1AJADENR6wBuMoXQihO8Vs0J00vEN%2FvLKXCbd5ApHQCbCiYYG20Jopglb%2BcfBu594AK1UoDThWpMfU2gxskiz6zl9DtsD1U3yO%2F8JtFRzTY9lfWwI7pwJ%2F3cgnuEAVDiCX9sWh%2FSJFLIIMKl4fiS%2FMGKBmjOtchnwo%2F4PIqyQ8FsOaiklqsHZ2g9wS0cKhRSRozfd8OobS5vqS3sDWSZejWrb19cRaqME91M9vp4s%2FIyOpOPALXeYeKjCGyw%3D%3D" medium="video">
+                <media:title>DASH-737 Test</media:title>
+                <media:description>Video To Test DASH-737</media:description>
+                <media:thumbnail url="https://theme.zdassets.com/theme_assets/848525/85764c3a60f36a5ab79fbd3a29ecdbda62175b51.png"/>
+                <media:credit role="producer" scheme="urn:ebu">Joe</media:credit>
+                <media:player url="https://storage.googleapis.com/zype-original-video-stg/uploads/62698e86c900ed0001622e2b/28e80247-76b7-4e50-87cc-29fbbdde1c08.mp4?GoogleAccessId=zype-gcs-stg%40zype-working.iam.gserviceaccount.com&Expires=1651350153&Signature=q55pk09Z4zuFTqi4CvLsMpSHlHKIBK5w2jYscovfW7PfnS5cSH4w9DzUvFjHKUXUSv3A%2BfnQisW9iNk%2BwyusuPVW9T1AJADENR6wBuMoXQihO8Vs0J00vEN%2FvLKXCbd5ApHQCbCiYYG20Jopglb%2BcfBu594AK1UoDThWpMfU2gxskiz6zl9DtsD1U3yO%2F8JtFRzTY9lfWwI7pwJ%2F3cgnuEAVDiCX9sWh%2FSJFLIIMKl4fiS%2FMGKBmjOtchnwo%2F4PIqyQ8FsOaiklqsHZ2g9wS0cKhRSRozfd8OobS5vqS3sDWSZejWrb19cRaqME91M9vp4s%2FIyOpOPALXeYeKjCGyw%3D%3D"/>
+            </media:content>
+        </item>
+    </channel>
+</rss>
