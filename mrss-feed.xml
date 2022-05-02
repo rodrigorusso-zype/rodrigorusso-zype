@@ -22,8 +22,8 @@ timestamp_iso=2021-03-25T15:02:57.654190Z
             <url>https://theme.zdassets.com/theme_assets/848525/85764c3a60f36a5ab79fbd3a29ecdbda62175b51.png</url>
         </image>
         <language>en-us</language>
-        <pubDate>Mon, 02 May 2022 09:38:22 -0300</pubDate>
-        <lastBuildDate>Mon, 02 May 2022 09:38:22 -0300</lastBuildDate>
+        <pubDate>Mon, 02 May 2022 14:28:56 -0300</pubDate>
+        <lastBuildDate>Mon, 02 May 2022 14:28:56 -0300</lastBuildDate>
         <copyright>Zype.</copyright>
         <item>
             <title>TEST DASH-737</title>
@@ -61,6 +61,25 @@ timestamp_iso=2021-03-25T15:02:57.654190Z
                 <media:thumbnail url="https://expertogeek.com/wp-content/uploads/2021/09/%C2%BFQue-es-el-inicio-de-sesion-de-Windows-Hello-en.jpg"/>
                 <media:credit role="producer" scheme="urn:ebu">Rodrigo</media:credit>
                 <media:player url="https://storage.googleapis.com/zype-original-video-stg/uploads/626c38df126ea40001bf6f7c/17a7eef1-b3ba-4373-9c77-44ebfd177dea"/>
+            </media:content>
+        </item>
+        <item>
+            <title>TEST DASH-737 - TMZ - 2</title>
+            <link>https://ovp.tmz.com/video/86/o/2022/04/28/86a43b711ab64565b53810df963d6cf2.mp4</link>
+            <guid isPermaLink="false">86a43b711ab64565b53810df963d6cf2</guid>
+            <description>
+              Zype Testing DASH-737 - TMZ - 2
+        </description>
+            <dc:creator>Rodrigo</dc:creator>
+            <pubDate>Mon, 02 May 2022 14:25:56 -0300</pubDate>
+            <atom:updated>2022-05-0214:25:22-03:00</atom:updated>
+            <media:thumbnail url="https://expertogeek.com/wp-content/uploads/2021/09/%C2%BFQue-es-el-inicio-de-sesion-de-Windows-Hello-en.jpg"/>
+            <media:content url="https://ovp.tmz.com/video/86/o/2022/04/28/86a43b711ab64565b53810df963d6cf2.mp4" medium="video">
+                <media:title>DASH-737 Test - TMZ</media:title>
+                <media:description>Video To Test DASH-737 - TMZ</media:description>
+                <media:thumbnail url="https://expertogeek.com/wp-content/uploads/2021/09/%C2%BFQue-es-el-inicio-de-sesion-de-Windows-Hello-en.jpg"/>
+                <media:credit role="producer" scheme="urn:ebu">Rodrigo</media:credit>
+                <media:player url="https://ovp.tmz.com/video/86/o/2022/04/28/86a43b711ab64565b53810df963d6cf2.mp4"/>
             </media:content>
         </item>
     </channel>
