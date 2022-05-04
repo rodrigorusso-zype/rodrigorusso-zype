@@ -22,8 +22,8 @@ timestamp_iso=2021-03-25T15:02:57.654190Z
             <url>https://theme.zdassets.com/theme_assets/848525/85764c3a60f36a5ab79fbd3a29ecdbda62175b51.png</url>
         </image>
         <language>en-us</language>
-        <pubDate>Tue, 03 May 2022 09:24:18 -0300</pubDate>
-        <lastBuildDate>Tue, 03 May 2022 09:24:18 -0300</lastBuildDate>
+        <pubDate>Wed, 04 May 2022 09:27:15 -0300</pubDate>
+        <lastBuildDate>Wed, 04 May 2022 09:27:15 -0300</lastBuildDate>
         <copyright>Zype.</copyright>
         <item>
             <title>TEST DASH-737</title>
@@ -118,6 +118,25 @@ timestamp_iso=2021-03-25T15:02:57.654190Z
                 <media:thumbnail url="https://expertogeek.com/wp-content/uploads/2021/09/%C2%BFQue-es-el-inicio-de-sesion-de-Windows-Hello-en.jpg"/>
                 <media:credit role="producer" scheme="urn:ebu">Rodrigo</media:credit>
                 <media:player url="https://ovp.tmz.com/video/45/o/2022/04/27/4517bbe3b1aa41b7b6bf4f81b1fea289.mp4"/>
+            </media:content>
+        </item>
+        <item>
+            <title>TEST DASH-737 - TMZ - 5</title>
+            <link>https://ovp.tmz.com/video/ee/o/2022/04/29/eeea46e1b7604feaa93d53679238c69d.mp4</link>
+            <guid isPermaLink="false">4517bbe3b1aa41b7b6bf4f81b1fea289</guid>
+            <description>
+              Zype Testing DASH-737 - TMZ - 5
+        </description>
+            <dc:creator>Rodrigo</dc:creator>
+            <pubDate>Wed, 04 May 2022 09:27:15 -0300</pubDate>
+            <atom:updated>2022-05-0409:27:15-03:00</atom:updated>
+            <media:thumbnail url="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d4bda6f81285a9c948c2d43e726c7c3d358068166d3ecec56299dc78f0787c09._RI_V_TTW_.jpg"/>
+            <media:content url="https://ovp.tmz.com/video/ee/o/2022/04/29/eeea46e1b7604feaa93d53679238c69d.mp4" medium="video">
+                <media:title>TEST DASH-737 - TMZ - 5</media:title>
+                <media:description>Video To Test DASH-737 - TMZ - 5</media:description>
+                <media:thumbnail url="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d4bda6f81285a9c948c2d43e726c7c3d358068166d3ecec56299dc78f0787c09._RI_V_TTW_.jpg"/>
+                <media:credit role="producer" scheme="urn:ebu">Rodrigo</media:credit>
+                <media:player url="https://ovp.tmz.com/video/ee/o/2022/04/29/eeea46e1b7604feaa93d53679238c69d.mp4"/>
             </media:content>
         </item>
     </channel>
