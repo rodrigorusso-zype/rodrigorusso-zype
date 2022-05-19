@@ -14,3 +14,4 @@
 - [Tiered Playlist - iframe](https://rodrigorusso-zype.github.io/playlist-tiered-embed-iframe.html)
 - [Tiered Playlist - js](https://rodrigorusso-zype.github.io/playlist-tiered-embed-js.html)
 - [MRSS Feed](https://rodrigorusso-zype.github.io/mrss-feed.xml)
+- [Large MRSS Feed](https://rodrigorusso-zype.github.io/large-mrss-feed.xml)
